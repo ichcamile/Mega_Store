@@ -88,7 +88,7 @@ cargo test
 ## ▶️ Como Rodar
 
 ```bash
-git clone https://github.com/seu-usuario/megastore.git
+git clone [https://github.com/seu-usuario/megastore.git](https://github.com/ichcamile/Mega_Store.git)
 cd megastore
 cargo run --bin main
 ```
